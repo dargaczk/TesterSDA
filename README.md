@@ -18,4 +18,4 @@ https://app.diplomasafe.com/pl-PL/diploma/d379477a26bb917b451a8e82fcadf8a8e3e50d
 # Courses
 Software Development Academy: Software Tester
 # My project
-[ryzyko.ods](https://github.com/dargaczk/TesterSDA/files/9978184/ryzyko.ods)
+[Prezentacja projekt koncowy Katarzyna Dargacz.odp](https://github.com/dargaczk/TesterSDA/files/9978192/Prezentacja.projekt.koncowy.Katarzyna.Dargacz.odp)
